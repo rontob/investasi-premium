@@ -629,3 +629,22 @@ body{
 .share-btn:hover{
     transform:translateY(-3px);
 }
+.cta-note{
+    margin-top:25px;
+    padding:20px;
+    background:#eef8f2;
+    border-left:5px solid var(--secondary);
+    border-radius:16px;
+}
+
+.cta-note i{
+    color:var(--secondary);
+    margin-right:8px;
+}
+
+.cta-note p{
+    margin:0;
+    color:#444;
+    font-size:15px;
+    line-height:1.7;
+}
