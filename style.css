@@ -648,3 +648,23 @@ body{
     font-size:15px;
     line-height:1.7;
 }
+/* =========================
+   IMAGE BANNER
+========================= */
+
+.image-banner{
+    padding:0 18px 40px;
+}
+
+.image-banner img{
+    width:100%;
+    display:block;
+    border-radius:24px;
+    object-fit:cover;
+    box-shadow:var(--shadow);
+    transition:.35s;
+}
+
+.image-banner img:hover{
+    transform:scale(1.02);
+}
