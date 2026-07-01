@@ -212,11 +212,10 @@ document.addEventListener("keydown", (e) => {
 const pageURL = window.location.href;
 
 const pageTitle =
-"Rumah Dijual Cinere Residence | SHM | 3 KT | Rp850 Juta";
+"Tanah Premium Eks Villa Rancamaya Bogor | 9.800 m² | Rp25 Miliar";
 
 const shareText =
-"Cek rumah dijual siap huni di Cinere Residence.\n\n";
-
+"Cek tanah premium eks villa di Rancamaya Bogor.\n\n";
 const wa = document.getElementById("shareWhatsapp");
 
 if(wa){
